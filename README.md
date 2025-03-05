@@ -1,16 +1,21 @@
-# biometriclogin
+# Biometric Login
 
-A new Flutter project.
+A basic flutter example on biometric login
 
-## Getting Started
+## Project Setup
+   ```bash
+   git clone https://github.com/yourusername/biometriclogin.git
+   cd biometriclogin
+   ```
+```
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Key Features
+- Biometric Authentication : Users can log in using their device's biometric capabilities
+- Fallback Options : If biometric authentication fails, users can log in using a PIN or password.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/fab4f1f9-48fc-4179-9a0d-a2416a3637c9
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
